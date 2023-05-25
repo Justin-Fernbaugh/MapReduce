@@ -1,0 +1,1 @@
+rustc -o main main.rs
